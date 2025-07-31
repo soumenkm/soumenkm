@@ -1,58 +1,42 @@
-<div id="intro" align="center">
-  <h1>
-    Hello there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I am Soumen.
-  </h1>
-</div>
+<!-- Profile header -->
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl6anB0dGVuM2RtNnN6YmxzY2xxNGRxeWV3eDFkZ3pqMmo5dmc4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DJs8z6pvCDE3dHnyPn/giphy.gif" width="200"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumenkm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/soumen-mondal-680051a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://soumenkm.github.io">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
-  </a>
-  <a href="https://www.facebook.com/soumenkm">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
+<h1 align="center">Hi, I'm Soumen Mondal (@soumenkm)</h1>
 
-<div id="profile-count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumenkm&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1lczJyOHp0d2c0MjZmaHV1NHh0ZG5kbGgyNndza2pvN2hldmpiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1tuooPJnx3kKqBmNEW/giphy.gif" width="500" height="300"/>
-</div>
+<p align="center">
+  🧠 AI Researcher • ⚙️ CMInDS, IIT Bombay • 🚀 MS by Research in Artificial Intelligence and Data Science 
+</p>
 
 ---
 
-### :man_technologist: About Me :
+## 📊 GitHub Stats
 
-I am pursuing MS By Research in Artificial Intelligence and Data Science from IIT Bombay <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soumenkm&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-- :telescope: I’m contributing to the field of Natural Language Processing for better factual knowledge transfer in LLMs acorss languages.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumenkm&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub stats" />
+</p>
 
-- :seedling: Exploring cross lingual representation of facts in LLMs.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumenkm&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
+</p>
 
-- :zap: In my free time, I implement popular machine learning algorithms from scratch.
-
-- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/soumen-mondal-680051a2/)
+![Soumen's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=soumenkm&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+<p align="center">
+  <sub>* Since you are a large-scale contributor, only public contributions to your repositories are shown.</sub>
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🧰 Toolbox
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
@@ -66,7 +50,29 @@ I am pursuing MS By Research in Artificial Intelligence and Data Science from II
 
 ---
 
-### :fire: My Stats :
+## 📍 What I'm working on
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=soumenkm&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumenkm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 📦 Mechanistic Interpretability of LLMs 
+- 🔁 Cross Lingual Transfer in Multilingual LLMs
+- 🧼 Transliteration in LLMs using RAG and Preference Optimisation
+
+---
+
+## 🌐 Connect with me
+
+- GitHub: [@soumenkm](https://github.com/soumenkm)  
+- LinkedIn: [Soumen Mondal](https://www.linkedin.com/in/soumen-mondal-680051a2/)
+
+---
+
+> *"Simplicity is not about removing code, it's about removing the unnecessary so the important is understood better."*
+
+---
+
+![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
+
+---
+
+
+
+
